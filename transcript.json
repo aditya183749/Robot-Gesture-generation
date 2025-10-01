@@ -1,0 +1,17 @@
+[
+  {
+    "start": 0.5,
+    "end": 2.0,
+    "text": "hello and welcome"
+  },
+  {
+    "start": 2.5,
+    "end": 4.0,
+    "text": "let's wave our hands"
+  },
+  {
+    "start": 4.5,
+    "end": 6.0,
+    "text": "I hope you have a great day"
+  }
+]

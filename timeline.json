@@ -1,0 +1,64 @@
+{
+  "animation_plan": [
+    {
+      "start": 0.5,
+      "end": 1.0,
+      "gesture": "wave"
+    },
+    {
+      "start": 1.0,
+      "end": 1.5,
+      "gesture": "neutral"
+    },
+    {
+      "start": 1.5,
+      "end": 2.0,
+      "gesture": "wave"
+    },
+    {
+      "start": 2.5,
+      "end": 2.875,
+      "gesture": "think"
+    },
+    {
+      "start": 2.875,
+      "end": 4.0,
+      "gesture": "celebrate"
+    },
+    {
+      "start": 4.5,
+      "end": 4.75,
+      "gesture": "celebrate"
+    },
+    {
+      "start": 4.714285714285714,
+      "end": 4.964285714285714,
+      "gesture": "celebrate"
+    },
+    {
+      "start": 4.928571428571429,
+      "end": 5.178571428571429,
+      "gesture": "wave"
+    },
+    {
+      "start": 5.142857142857142,
+      "end": 5.392857142857142,
+      "gesture": "celebrate"
+    },
+    {
+      "start": 5.357142857142857,
+      "end": 5.607142857142857,
+      "gesture": "celebrate"
+    },
+    {
+      "start": 5.571428571428571,
+      "end": 5.821428571428571,
+      "gesture": "thumbs_up"
+    },
+    {
+      "start": 5.785714285714286,
+      "end": 6.035714285714286,
+      "gesture": "celebrate"
+    }
+  ]
+}

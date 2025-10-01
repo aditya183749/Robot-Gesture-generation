@@ -1,0 +1,382 @@
+[
+  {
+    "token": "hello",
+    "gesture": "wave"
+  },
+  {
+    "token": "hi",
+    "gesture": "wave"
+  },
+  {
+    "token": "yes",
+    "gesture": "nod"
+  },
+  {
+    "token": "correct",
+    "gesture": "nod"
+  },
+  {
+    "token": "no",
+    "gesture": "shake_head"
+  },
+  {
+    "token": "not right",
+    "gesture": "shake_head"
+  },
+  {
+    "token": "good",
+    "gesture": "thumbs_up"
+  },
+  {
+    "token": "great",
+    "gesture": "thumbs_up"
+  },
+  {
+    "token": "awesome",
+    "gesture": "celebrate"
+  },
+  {
+    "token": "hooray",
+    "gesture": "celebrate"
+  },
+  {
+    "token": "hmmm",
+    "gesture": "think"
+  },
+  {
+    "token": "let me see",
+    "gesture": "think"
+  },
+  {
+    "token": "i don't know",
+    "gesture": "shrug"
+  },
+  {
+    "token": "maybe",
+    "gesture": "shrug"
+  },
+  {
+    "token": "look here",
+    "gesture": "point_right"
+  },
+  {
+    "token": "on your right",
+    "gesture": "point_right"
+  },
+  {
+    "token": "over there",
+    "gesture": "point_left"
+  },
+  {
+    "token": "on the left side",
+    "gesture": "point_left"
+  },
+  {
+    "token": "for example",
+    "gesture": "explain_open_hands"
+  },
+  {
+    "token": "the point is",
+    "gesture": "explain_open_hands"
+  },
+  {
+    "token": "oh no",
+    "gesture": "face_palm"
+  },
+    {
+      "token": "seriously",
+      "gesture": "face_palm"
+    },
+  { "token": "hello", "gesture": "wave" },
+  { "token": "hi", "gesture": "wave" },
+  { "token": "hey there", "gesture": "wave" },
+  { "token": "greetings", "gesture": "wave" },
+  { "token": "good to see you", "gesture": "wave" },
+  { "token": "welcome", "gesture": "wave" },
+
+  { "token": "yes", "gesture": "nod" },
+  { "token": "correct", "gesture": "nod" },
+  { "token": "that's right", "gesture": "nod" },
+  { "token": "I agree", "gesture": "nod" },
+  { "token": "exactly", "gesture": "nod" },
+  { "token": "yep", "gesture": "nod" },
+
+  { "token": "no", "gesture": "shake_head" },
+  { "token": "not right", "gesture": "shake_head" },
+  { "token": "incorrect", "gesture": "shake_head" },
+  { "token": "I disagree", "gesture": "shake_head" },
+  { "token": "that's wrong", "gesture": "shake_head" },
+  { "token": "nope", "gesture": "shake_head" },
+
+  { "token": "good", "gesture": "thumbs_up" },
+  { "token": "great", "gesture": "thumbs_up" },
+  { "token": "nice work", "gesture": "thumbs_up" },
+  { "token": "well done", "gesture": "thumbs_up" },
+  { "token": "perfect", "gesture": "thumbs_up" },
+  { "token": "excellent", "gesture": "thumbs_up" },
+
+  { "token": "awesome", "gesture": "celebrate" },
+  { "token": "hooray", "gesture": "celebrate" },
+  { "token": "wow", "gesture": "celebrate" },
+  { "token": "fantastic", "gesture": "celebrate" },
+  { "token": "amazing", "gesture": "celebrate" },
+  { "token": "we did it", "gesture": "celebrate" },
+
+  { "token": "hmmm", "gesture": "think" },
+  { "token": "let me see", "gesture": "think" },
+  { "token": "I think", "gesture": "think" },
+  { "token": "let's consider", "gesture": "think" },
+  { "token": "I wonder", "gesture": "think" },
+  { "token": "one moment", "gesture": "think" },
+
+  { "token": "i don't know", "gesture": "shrug" },
+  { "token": "maybe", "gesture": "shrug" },
+  { "token": "perhaps", "gesture": "shrug" },
+  { "token": "I'm not sure", "gesture": "shrug" },
+  { "token": "who knows", "gesture": "shrug" },
+  { "token": "it's unclear", "gesture": "shrug" },
+
+  { "token": "look here", "gesture": "point_right" },
+  { "token": "on your right", "gesture": "point_right" },
+  { "token": "this one", "gesture": "point_right" },
+  { "token": "check this out", "gesture": "point_right" },
+  { "token": "focus here", "gesture": "point_right" },
+
+  { "token": "over there", "gesture": "point_left" },
+  { "token": "on the left side", "gesture": "point_left" },
+  { "token": "that one", "gesture": "point_left" },
+  { "token": "look over there", "gesture": "point_left" },
+  { "token": "on my left", "gesture": "point_left" },
+
+  { "token": "for example", "gesture": "explain_open_hands" },
+  { "token": "the point is", "gesture": "explain_open_hands" },
+  { "token": "let me explain", "gesture": "explain_open_hands" },
+  { "token": "to clarify", "gesture": "explain_open_hands" },
+  { "token": "what I mean is", "gesture": "explain_open_hands" },
+
+  { "token": "oh no", "gesture": "face_palm" },
+  { "token": "seriously", "gesture": "face_palm" },
+  { "token": "I can't believe it", "gesture": "face_palm" },
+  { "token": "darn", "gesture": "face_palm" },
+  { "token": "what a mistake", "gesture": "face_palm" },
+
+  { "token": "hello", "gesture": "wave" },
+  { "token": "hi", "gesture": "wave" },
+  { "token": "hey there", "gesture": "wave" },
+  { "token": "greetings", "gesture": "wave" },
+  { "token": "good to see you", "gesture": "wave" },
+  { "token": "welcome", "gesture": "wave" },
+
+  { "token": "yes", "gesture": "nod" },
+  { "token": "correct", "gesture": "nod" },
+  { "token": "that's right", "gesture": "nod" },
+  { "token": "I agree", "gesture": "nod" },
+  { "token": "exactly", "gesture": "nod" },
+  { "token": "yep", "gesture": "nod" },
+  { "token": "absolutely", "gesture": "nod" },
+
+  { "token": "no", "gesture": "shake_head" },
+  { "token": "not right", "gesture": "shake_head" },
+  { "token": "incorrect", "gesture": "shake_head" },
+  { "token": "I disagree", "gesture": "shake_head" },
+  { "token": "that's wrong", "gesture": "shake_head" },
+  { "token": "nope", "gesture": "shake_head" },
+  { "token": "I don't think so", "gesture": "shake_head" },
+
+  { "token": "good", "gesture": "thumbs_up" },
+  { "token": "nice work", "gesture": "thumbs_up" },
+  { "token": "well done", "gesture": "thumbs_up" },
+  { "token": "perfect", "gesture": "thumbs_up" },
+  { "token": "excellent", "gesture": "thumbs_up" },
+
+  { "token": "awesome", "gesture": "celebrate" },
+  { "token": "hooray", "gesture": "celebrate" },
+  { "token": "wow", "gesture": "celebrate" },
+  { "token": "fantastic", "gesture": "celebrate" },
+  { "token": "amazing", "gesture": "celebrate" },
+  { "token": "we did it", "gesture": "celebrate" },
+  { "token": "great", "gesture": "celebrate" },
+
+  { "token": "hmmm", "gesture": "think" },
+  { "token": "let me see", "gesture": "think" },
+  { "token": "I think", "gesture": "think" },
+  { "token": "let's consider", "gesture": "think" },
+  { "token": "I wonder", "gesture": "think" },
+  { "token": "one moment", "gesture": "think" },
+  { "token": "I'm thinking", "gesture": "think" },
+
+  { "token": "i don't know", "gesture": "shrug" },
+  { "token": "maybe", "gesture": "shrug" },
+  { "token": "perhaps", "gesture": "shrug" },
+  { "token": "I'm not sure", "gesture": "shrug" },
+  { "token": "who knows", "gesture": "shrug" },
+  { "token": "it's unclear", "gesture": "shrug" },
+
+  { "token": "look here", "gesture": "point_right" },
+  { "token": "on your right", "gesture": "point_right" },
+  { "token": "check this out", "gesture": "point_right" },
+  { "token": "focus here", "gesture": "point_right" },
+  { "token": "this one", "gesture": "point_right" },
+
+  { "token": "over there", "gesture": "point_left" },
+  { "token": "on the left side", "gesture": "point_left" },
+  { "token": "look over there", "gesture": "point_left" },
+  { "token": "on my left", "gesture": "point_left" },
+  { "token": "that one", "gesture": "point_left" },
+
+  { "token": "for example", "gesture": "explain_open_hands" },
+  { "token": "the point is", "gesture": "explain_open_hands" },
+  { "token": "let me explain", "gesture": "explain_open_hands" },
+  { "token": "to clarify", "gesture": "explain_open_hands" },
+  { "token": "what I mean is", "gesture": "explain_open_hands" },
+
+  { "token": "oh no", "gesture": "face_palm" },
+  { "token": "seriously", "gesture": "face_palm" },
+  { "token": "I can't believe it", "gesture": "face_palm" },
+  { "token": "darn", "gesture": "face_palm" },
+  { "token": "what a mistake", "gesture": "face_palm" },
+  { "token": "unbelievable", "gesture": "face_palm" },
+  
+  { "token": "firstly", "gesture": "counting_fingers" },
+  { "token": "secondly", "gesture": "counting_fingers" },
+  { "token": "thirdly", "gesture": "counting_fingers" },
+  { "token": "one two three", "gesture": "counting_fingers" },
+  { "token": "in the first place", "gesture": "counting_fingers" },
+
+  { "token": "tell me more", "gesture": "listening_tilt" },
+  { "token": "go on", "gesture": "listening_tilt" },
+  { "token": "I'm listening", "gesture": "listening_tilt" },
+  { "token": "and then", "gesture": "listening_tilt" },
+  { "token": "I see", "gesture": "listening_tilt" },
+
+  { "token": "hold on", "gesture": "calm_down" },
+  { "token": "take it easy", "gesture": "calm_down" },
+  { "token": "relax", "gesture": "calm_down" },
+  { "token": "calm down", "gesture": "calm_down" },
+  { "token": "wait a second", "gesture": "calm_down" },
+
+  { "token": "hello", "gesture": "wave" },
+  { "token": "hi", "gesture": "wave" },
+  { "token": "hey there", "gesture": "wave" },
+  { "token": "greetings", "gesture": "wave" },
+  { "token": "good to see you", "gesture": "wave" },
+  { "token": "welcome", "gesture": "wave" },
+  { "token": "how are you", "gesture": "wave" },
+  { "token": "good morning", "gesture": "wave" },
+
+  { "token": "yes", "gesture": "nod" },
+  { "token": "correct", "gesture": "nod" },
+  { "token": "that's right", "gesture": "nod" },
+  { "token": "I agree", "gesture": "nod" },
+  { "token": "exactly", "gesture": "nod" },
+  { "token": "yep", "gesture": "nod" },
+  { "token": "absolutely", "gesture": "nod" },
+  { "token": "you got it", "gesture": "nod" },
+
+  { "token": "no", "gesture": "shake_head" },
+  { "token": "not right", "gesture": "shake_head" },
+  { "token": "incorrect", "gesture": "shake_head" },
+  { "token": "I disagree", "gesture": "shake_head" },
+  { "token": "that's wrong", "gesture": "shake_head" },
+  { "token": "nope", "gesture": "shake_head" },
+  { "token": "I don't think so", "gesture": "shake_head" },
+  { "token": "definitely not", "gesture": "shake_head" },
+
+  { "token": "good", "gesture": "thumbs_up" },
+  { "token": "nice work", "gesture": "thumbs_up" },
+  { "token": "well done", "gesture": "thumbs_up" },
+  { "token": "perfect", "gesture": "thumbs_up" },
+  { "token": "excellent", "gesture": "thumbs_up" },
+  { "token": "good job", "gesture": "thumbs_up" },
+
+  { "token": "awesome", "gesture": "celebrate" },
+  { "token": "hooray", "gesture": "celebrate" },
+  { "token": "wow", "gesture": "celebrate" },
+  { "token": "fantastic", "gesture": "celebrate" },
+  { "token": "amazing", "gesture": "celebrate" },
+  { "token": "we did it", "gesture": "celebrate" },
+  { "token": "great", "gesture": "celebrate" },
+  { "token": "incredible", "gesture": "celebrate" },
+
+  { "token": "hmmm", "gesture": "think" },
+  { "token": "let me see", "gesture": "think" },
+  { "token": "I think", "gesture": "think" },
+  { "token": "let's consider", "gesture": "think" },
+  { "token": "I wonder", "gesture": "think" },
+  { "token": "one moment", "gesture": "think" },
+  { "token": "I'm thinking", "gesture": "think" },
+  { "token": "let me ponder", "gesture": "think" },
+
+  { "token": "i don't know", "gesture": "shrug" },
+  { "token": "maybe", "gesture": "shrug" },
+  { "token": "perhaps", "gesture": "shrug" },
+  { "token": "I'm not sure", "gesture": "shrug" },
+  { "token": "who knows", "gesture": "shrug" },
+  { "token": "it's unclear", "gesture": "shrug" },
+  { "token": "I have no idea", "gesture": "shrug" },
+  { "token": "beats me", "gesture": "shrug" },
+
+  { "token": "look here", "gesture": "point_right" },
+  { "token": "on your right", "gesture": "point_right" },
+  { "token": "check this out", "gesture": "point_right" },
+  { "token": "focus here", "gesture": "point_right" },
+  { "token": "this one", "gesture": "point_right" },
+  { "token": "as you can see here", "gesture": "point_right" },
+
+  { "token": "over there", "gesture": "point_left" },
+  { "token": "on the left side", "gesture": "point_left" },
+  { "token": "look over there", "gesture": "point_left" },
+  { "token": "on my left", "gesture": "point_left" },
+  { "token": "that one", "gesture": "point_left" },
+  { "token": "the previous point", "gesture": "point_left" },
+
+  { "token": "for example", "gesture": "explain_open_hands" },
+  { "token": "the point is", "gesture": "explain_open_hands" },
+  { "token": "let me explain", "gesture": "explain_open_hands" },
+  { "token": "to clarify", "gesture": "explain_open_hands" },
+  { "token": "what I mean is", "gesture": "explain_open_hands" },
+  { "token": "the idea is", "gesture": "explain_open_hands" },
+
+  { "token": "oh no", "gesture": "face_palm" },
+  { "token": "seriously", "gesture": "face_palm" },
+  { "token": "I can't believe it", "gesture": "face_palm" },
+  { "token": "darn", "gesture": "face_palm" },
+  { "token": "what a mistake", "gesture": "face_palm" },
+  { "token": "unbelievable", "gesture": "face_palm" },
+  { "token": "that's not good", "gesture": "face_palm" },
+
+  { "token": "firstly", "gesture": "counting_fingers" },
+  { "token": "secondly", "gesture": "counting_fingers" },
+  { "token": "thirdly", "gesture": "counting_fingers" },
+  { "token": "there are three reasons", "gesture": "counting_fingers" },
+  { "token": "in the first place", "gesture": "counting_fingers" },
+  { "token": "one two three", "gesture": "counting_fingers" },
+
+  { "token": "tell me more", "gesture": "listening_tilt" },
+  { "token": "go on", "gesture": "listening_tilt" },
+  { "token": "I'm listening", "gesture": "listening_tilt" },
+  { "token": "and then", "gesture": "listening_tilt" },
+  { "token": "I see", "gesture": "listening_tilt" },
+  { "token": "uh huh", "gesture": "listening_tilt" },
+
+  { "token": "hold on", "gesture": "calm_down" },
+  { "token": "take it easy", "gesture": "calm_down" },
+  { "token": "relax", "gesture": "calm_down" },
+  { "token": "calm down", "gesture": "calm_down" },
+  { "token": "wait a second", "gesture": "calm_down" },
+  { "token": "just a moment", "gesture": "calm_down" },
+  
+  { "token": "stop", "gesture": "stop_hand" },
+  { "token": "hold it right there", "gesture": "stop_hand" },
+  { "token": "that's enough", "gesture": "stop_hand" },
+  { "token": "wait", "gesture": "stop_hand" },
+  { "token": "don't do that", "gesture": "stop_hand" },
+
+  { "token": "the", "gesture": "neutral" },
+  { "token": "is", "gesture": "neutral" },
+  { "token": "it", "gesture": "neutral" },
+  { "token": "was", "gesture": "neutral" },
+  { "token": "and", "gesture": "neutral" },
+  { "token": "that", "gesture": "neutral" }
+
+]
